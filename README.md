@@ -27,7 +27,6 @@
 
 ## 🌐 Conectemos
 - [LinkedIn](https://www.linkedin.com/in/nmammana/)  
-- [GitHub](https://github.com/nmammana)
 
 ---
 
